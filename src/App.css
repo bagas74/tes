@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.button-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Jarak antar tombol */
+}
